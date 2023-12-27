@@ -1,4 +1,6 @@
 UNP_PROJECT WITH POWER BI SUPPLY CHAIN 
+
+
 completed this project as part of my BI with power BI internship with united network of professionals (UNP).
 
 Key highlights
